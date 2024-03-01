@@ -1,4 +1,4 @@
-# Docker env for BHP Work
+# Docker env for pytorch with cuda/gpu access
 
 ***Made this to keep my machine from being to filled with crap, unfortunately that
 requires us to install more crap, (docker and by association wsl)***
